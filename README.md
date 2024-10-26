@@ -2,6 +2,12 @@
 
 An unofficial command-line tool creating GitHub issues with AI descriptions.
 
+
+
+https://github.com/user-attachments/assets/edb8c284-13fb-4574-81a2-56325b44d666
+
+
+
 ## Features
 
 - Create issues for the GitHub repo of your current directory
