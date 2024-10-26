@@ -4,7 +4,11 @@ An unofficial command-line tool creating GitHub issues with AI descriptions.
 
 
 
-https://github.com/user-attachments/assets/edb8c284-13fb-4574-81a2-56325b44d666
+https://github.com/user-attachments/assets/ceaff7f7-df77-499d-aa85-ecf2a749c085
+
+
+
+https://github.com/user-attachments/assets/d17754c6-cb62-4987-88e2-35f9682af892
 
 
 
