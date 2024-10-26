@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    "ghi": "./main.js"
+    "ghi": "./index.js"
   },
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
     "commander": "^12.1.0",
     "inquirer": "^12.0.0"
   }
